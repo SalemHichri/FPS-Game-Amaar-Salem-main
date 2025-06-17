@@ -1,2 +1,2 @@
-# FPS-Game-Amaar-Salem-main
-First-Person-Shooter Game. Grade 11 Final project.
+# FPS-Game-Amaar-Salem
+The main game
